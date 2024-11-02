@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57253512363",
+    "project_id": "chat-app-bebe7",
+    "storage_bucket": "chat-app-bebe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57253512363:android:8acdfa90ce727d7ceb23ee",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6uYegna4_mLb29EDG_-bkPv6sOxBY4AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
